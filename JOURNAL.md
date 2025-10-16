@@ -32,3 +32,21 @@ Motor Driver: DRV8825
 
 Also, I researched about inverse kinematics and found a library that I'll use and created a quick .urdf for it.  
 
+## 10/16/2025 - Received prints + fixed CAD  
+
+I received the print from the library!
+
+There were a few problems with it, but I got it running, and I worked on fixing those problems in CAD, and designing the arm.
+
+![drive.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--52643450384773aff0fa9e3f6b686435d6a05549/drive.jpg)
+
+
+![08c9931b-29c4-46dc-a4ee-fd0e21de432b.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--6baa9396db65ef09317167329159056adcdc8b75/08c9931b-29c4-46dc-a4ee-fd0e21de432b.PNG)
+
+^ updated cycloidal drive with space for balsa wood
+
+
+Next up, I'll print the updated files and test the torque.
+
+Torque _might_ be a problem, so I want to test that ASAP.  
+
