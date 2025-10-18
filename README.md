@@ -4,8 +4,7 @@ Meet the violin-playing robotic arm! With joints that move like a human’s, sen
 
 How-to videos coming soon!
 
-## > [!TIP]
-
+> [!TIP]
 > Latest CAD files available [here](https://github.com/ved-patel226/BowBot/releases/latest)
 
 ## Torque and Load Analysis ([Robot Arm Calculator](https://www.societyofrobots.com/robot_arm_calculator.shtml))
