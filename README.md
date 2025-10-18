@@ -21,10 +21,16 @@ How-to videos coming soon!
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <p>10/18/25 - Arm Render</p>
-  <img src="./images/renders/1.0.0_v2.jpg" height="500">
+
+  <p align="center">
+    <img src="./images/renders/1.0.0_v2.jpg" height="500">
+  </p>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <p>10/13/25 - Arm Render</p>
-  <img src="./images/renders/1.0.0.jpg" height="500">
+
+  <p align="center">
+    <img src="./images/renders/1.0.0.jpg" height="500">
+  </p>
 </div>
