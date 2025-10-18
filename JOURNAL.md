@@ -38,6 +38,11 @@ I received the print from the library!
 
 There were a few problems with it, but I got it running, and I worked on fixing those problems in CAD, and designing the arm.
 
+The issues include:
+- Input shaft being very, very hard to put on
+- The base not aligning with center "bump" on motor
+- Rotors wearing out 
+
 ![drive.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--52643450384773aff0fa9e3f6b686435d6a05549/drive.jpg)
 
 
