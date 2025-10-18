@@ -55,3 +55,19 @@ Next up, I'll print the updated files and test the torque.
 
 Torque _might_ be a problem, so I want to test that ASAP.  
 
+## 10/18/2025 - Worked on CAD assembly  
+
+I completed the FULL CAD assembly for the 2 arms, the only thing left to CAD now is the base! I sent the updated CAD files to the library and I'm waiting for them to be done to test them out. 
+
+The assembly looks SICK! 
+
+![side view.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--9d8ea5806052efe3dd119e5ffd19c232b359636b/side%20view.PNG)
+
+While building, I found 2 potential problems:
+
+- The center of gravity IS NOT directly on top of the base
+- Wires will twist
+
+
+For now, I'll ignore the 2nd problem and focus on the 1st one. I'll also ask my engineering teacher his thoughts on Monday.  
+
