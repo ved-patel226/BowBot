@@ -20,7 +20,8 @@ How-to videos coming soon!
 ## 1.0.0 (10/13/25) -> (10/18/25):
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <p>10/18/25 - Arm Render</p>
+    <p align="center">
+10/18/25 - Arm Render</p>
 
   <p align="center">
     <img src="./images/renders/1.0.0_v2.jpg" height="500">
@@ -28,7 +29,8 @@ How-to videos coming soon!
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <p>10/13/25 - Arm Render</p>
+    <p align="center">
+10/13/25 - Arm Render</p>
 
   <p align="center">
     <img src="./images/renders/1.0.0.jpg" height="500">
