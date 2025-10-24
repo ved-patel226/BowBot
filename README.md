@@ -7,6 +7,17 @@ How-to videos coming soon!
 > [!TIP]
 > Latest CAD files available [here](https://github.com/ved-patel226/BowBot/releases/latest)
 
+## Renders
+
+
+<div style="display: flex; flex-direction: column">
+  <div style="display: flex; justify-content: space-around">
+      <img src="./images/renders/1.0.0_v2_1.png" style="height:500px; width:auto;">
+    <img src="./images/renders/1.0.0_v2_2.png" style="height:500px; width:auto">
+  </div>
+  <img src="./images/renders/1.0.0_v2_3.png" style="height: 500px; width: auto;">
+</div>
+
 ## Torque and Load Analysis ([Robot Arm Calculator](https://www.societyofrobots.com/robot_arm_calculator.shtml))
 
 <div style="display: flex; flex-direction: column; align-items: center;">
@@ -15,24 +26,4 @@ How-to videos coming soon!
   <img src="./images/calculations/arm_weight.png" width="300">
   <img src="./images/calculations/motor_weight.png" width="300">
   <img src="./images/calculations/torque.png" width="300">
-</div>
-
-## 1.0.0 (10/13/25) -> (10/18/25):
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <p align="center">
-10/18/25 - Arm Render</p>
-
-  <p align="center">
-    <img src="./images/renders/1.0.0_v2.jpg" height="500">
-  </p>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <p align="center">
-10/13/25 - Arm Render</p>
-
-  <p align="center">
-    <img src="./images/renders/1.0.0.jpg" height="500">
-  </p>
 </div>
