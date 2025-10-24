@@ -63,4 +63,4 @@ How-to videos coming soon!
 
 ---
 
-<img src="./images/logo.png" width="100">
+<img src="./images/logo.png" width="250">
