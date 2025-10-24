@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **BowBot - A robotic arm to play the violin**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/462).
-
-
 ## 10/12/2025 - Finished the CAD for the cyclodial drive  
 
 I finished the CAD for the drive, and now I'm waiting for the 3D print from the library. So far, I have a test print with the cycloidal drive and it works fine. 
@@ -70,4 +66,17 @@ While building, I found 2 potential problems:
 
 
 For now, I'll ignore the 2nd problem and focus on the 1st one. I'll also ask my engineering teacher his thoughts on Monday.  
+
+## 10/23/2025 - I got the 3D prints, however...  
+
+This is a quick update, 
+
+I got the 3D prints from another library this time, and the tolerances were all off.  
+
+Lesson learned: I'm getting all my prints from one library moving forward.  
+
+The new prints should be ready in about 3 days.
+
+![print.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--042a8afc181d196f44afaa4d3e5da6b66deaee6a/print.jpg)
+  
 
