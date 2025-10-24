@@ -10,7 +10,7 @@ How-to videos coming soon!
 ## Renders
 
 
-<div style="display: flex; flex-direction: column">
+<div style="display: flex; flex-direction: column; justify-content: center;">
   <div style="display: flex; justify-content: space-around">
       <img src="./images/renders/1.0.0_v2_1.png" style="height:500px; width:auto;">
     <img src="./images/renders/1.0.0_v2_2.png" style="height:500px; width:auto">
