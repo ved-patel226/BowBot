@@ -80,3 +80,15 @@ The new prints should be ready in about 3 days.
 ![print.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--042a8afc181d196f44afaa4d3e5da6b66deaee6a/print.jpg)
   
 
+## 11/3/2025 - v1 Cyclodial Drive Completed!  
+
+The drive works!
+
+![output](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--80659be5b849ba755a94dfb31105b958483c5fcc/output.gif)
+
+Next, I'll be putting the wood in to make the first arm. Then, i'll test the torque, which I'm still worried about. 
+
+When I hold the output down, it snaps pretty loudly.
+
+My setup is pretty janky right now though, so hopefully I can get the Input shaft tolerance right, because the bearings/rotors are coming off the input shaft and I have to rubber band them in!  
+
